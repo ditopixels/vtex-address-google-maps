@@ -1,0 +1,16 @@
+{
+  "store.home": { 
+    "blocks": [
+      "rich-text",
+      "google-maps"
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "Google maps component",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+}
